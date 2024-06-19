@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the Eco-Wiser project, a web application built using Vite, React, and Supabase. This project aims to provide an eco-friendly solution for managing notes and tasks. Plese note navbar is only for navigation purpose
+Welcome to the Eco-Wiser project, a web application built using Vite, React, and Supabase. This project aims to provide an eco-friendly solution for managing notes and tasks. Plese note navbar is only for decoration purpose
 
 ## Prerequisites
 
