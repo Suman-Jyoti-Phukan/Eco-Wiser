@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Donot remove it. Styles for placeholder */
+.editableDivPlaceholder[data-placeholder]::before {
+  content: attr(data-placeholder);
+  color: gray;
+  opacity: 0.5;
+  pointer-events: none;
+}
+
+.editableDivPlaceholder:not(:empty)::before {
+  display: none;
+}
+
+html,
+body {
+  background: #0a0a0a;
+}
